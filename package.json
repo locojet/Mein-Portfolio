@@ -1,0 +1,19 @@
+{
+  "name": "mi-repertorio.0.1",
+  "version": "1.0.0",
+  "description": "Mein Portfolio",
+  "main": "index.html",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"Javascript\"",
+    "\"J.Query\"",
+    "\"Webanwendungen\""
+  ],
+  "author": "Juan Carlos Mejia",
+  "license": "MIT"
+}
