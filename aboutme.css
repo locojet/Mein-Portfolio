@@ -4,13 +4,13 @@
 
 /* Grundlegender Link-Stil */
 a:link {
-    color: purple; /* Farbe für normale Links */
+    color: rgb(46, 46, 204); /* Farbe für normale Links */
     text-decoration: none; /* Entfernt die Unterstreichung von Links */
 }
 
 /* Link-Stil, nachdem der Link besucht wurde */
 a:visited {
-    color: rgb(119, 138, 205); /* Farbe für bereits besuchte Links */
+    color: rgb(46, 46, 204); /* Farbe für bereits besuchte Links */
 }
 
 /* Link-Stil beim Hover (wenn der Mauszeiger über den Link bewegt wird) */
@@ -21,7 +21,7 @@ a:hover {
 
 /* Link-Stil im aktiven Zustand (wenn der Link gerade geklickt wird) */
 a:active {
-    color: orange; /* Farbe für Links, wenn sie gerade aktiv sind */
+    color: rgb(253, 253, 253); /* Farbe für Links, wenn sie gerade aktiv sind */
 }
 
 
