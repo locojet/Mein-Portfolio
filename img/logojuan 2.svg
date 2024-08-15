@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Ebene-1" vectornator:layerName="Ebene 1">
+<path d="M79.7634 223.979C79.7634 141.136 146.921 73.9786 229.763 73.9786L792.522 73.9786C875.365 73.9786 942.522 141.136 942.522 223.979L256.954 236.448L256.954 787.859L942.522 797.449C942.522 880.292 875.365 947.449 792.522 947.449L229.763 947.449C146.921 947.449 79.7634 880.292 79.7634 797.449L79.7634 223.979Z" fill="none" opacity="1" stroke="#670000" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="0.903153" stroke-width="51.5498" vectornator:layerName="Rechteck 5"/>
+<path d="M103.769 227.779C103.769 155.148 161.109 96.2695 231.841 96.2695L792.159 96.2695C862.891 96.2695 920.231 155.148 920.231 227.779L920.231 796.221C920.231 868.852 862.891 927.73 792.159 927.73L231.841 927.73C161.109 927.73 103.769 868.852 103.769 796.221L103.769 227.779Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 4"/>
+<path d="M256.954 280.768C256.954 256.291 276.741 236.448 301.149 236.448L725.67 236.448C750.078 236.448 769.865 256.291 769.865 280.768L769.865 743.539C769.865 768.016 750.078 787.859 725.67 787.859L301.149 787.859C276.741 787.859 256.954 768.016 256.954 743.539L256.954 280.768Z" fill="none" opacity="1" stroke="#efe9e7" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="167.501" vectornator:layerName="Rechteck 2"/>
+<path d="M151.563 320.328L408.48 320.328L408.48 549.43L151.563 549.43L151.563 320.328Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rechteck 3"/>
+</g>
+<g id="Ebene-2" vectornator:layerName="Ebene 2"/>
+</svg>
