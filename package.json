@@ -8,9 +8,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "copyfiles -u 1 src/**/* dist/",
     "deploy": "gh-pages -d dist",
     "update": "git add . && git commit -m 'Automatisiertes Update' && git push origin main && npm run build && npm run deploy"
-  
   },
   "keywords": [
     "\"Javascript\"",
@@ -18,5 +18,9 @@
     "\"Webanwendungen\""
   ],
   "author": "Juan Carlos Mejia",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "copyfiles": "^2.4.1"
+  }
 }
