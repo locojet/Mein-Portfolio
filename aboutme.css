@@ -4,7 +4,7 @@
 
 /* Grundlegender Link-Stil */
 a:link {
-    color: rgb(46, 46, 204); /* Farbe für normale Links */
+    color: rgb(102, 102, 232);; /* Farbe für normale Links */
     text-decoration: none; /* Entfernt die Unterstreichung von Links */
 }
 
