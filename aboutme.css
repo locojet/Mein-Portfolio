@@ -10,7 +10,7 @@ a:link {
 
 /* Link-Stil, nachdem der Link besucht wurde */
 a:visited {
-    color: rgb(46, 46, 204); /* Farbe für bereits besuchte Links */
+    color: rgb(102, 102, 232); /* Farbe für bereits besuchte Links */
 }
 
 /* Link-Stil beim Hover (wenn der Mauszeiger über den Link bewegt wird) */
